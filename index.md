@@ -11,6 +11,17 @@ You can use Markdown most places around GitHub:
 1. Comments in Issues and Pull Requests
 1. Files with the .md or .markdown extension
 
+### Examples of what can I do: 
+
+* I can make lists with stars 
+
+- Dashes are working well 
+  - sub points too
+  
+  
+
+
+
 ```markdown
 Syntax highlighted code block
 
