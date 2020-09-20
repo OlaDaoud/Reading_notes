@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages
+## Mastering Markdown
 
-You can use the [editor on GitHub](https://github.com/OlaDaoud/Reading_notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is Markdown?
 
-### Markdown
+Markdown is a way of controling the web pages presentation, it is just regular text with a few non-alphabetic characters thrown in, like # or *.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can use Markdown most places around GitHub:
+1. Gists
+1. Comments in Issues and Pull Requests
+1. Files with the .md or .markdown extension
 
 ```markdown
 Syntax highlighted code block
