@@ -13,8 +13,7 @@ You can use Markdown most places around GitHub:
 
 ### Examples of what can I do: 
 
-1. 
-* I can make lists with *stars* 
+1. * I can make lists with *stars* 
 
 1. 
 - *Dashes* are working well 
