@@ -13,35 +13,35 @@ You can use Markdown most places around GitHub:
 
 ### Examples of what can I do: 
 
-1. * I can make lists with **stars** 
+* I can make lists with **stars** 
 
-1.  
+*  
 - **Dashes** are working well 
   - sub points too
   
-1.  Adding images 
+*  Adding images 
 ![Images are available](https://i0.wp.com/cleus.co/wp-content/uploads/2019/03/Screenshot-2019-03-14-at-4.23.07-PM.png?resize=939%2C919&ssl=1)
   
-1. Also you can quote anything > Talk is cheap. Show me the code.
+* Also you can quote anything > Talk is cheap. Show me the code.
 
-1. who said you cant code ? 
+* who said you cant code ? 
 if (that is true){
       return true
     }
 
-1. 
+* 
 - [x] This is a complete item
 - [ ] This is an incomplete item
 
 
-1.  you can stylize the text, make it :
+*  you can stylize the text, make it :
 **Bold** and _Italic_ and `Code` text and  ~~strike through~~
 
-1.  you can add link in [GitHub](http://github.com) 
+*  you can add link in [GitHub](http://github.com) 
 
-1.  Username @mentions 
+*  Username @mentions 
 
-1.  creating tables 
+*  creating tables 
 
 First Header | Second Header
 ------------ | -------------
