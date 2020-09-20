@@ -15,7 +15,6 @@ You can use Markdown most places around GitHub:
 
 * I can make lists with **stars** 
 
-*  
 - **Dashes** are working well 
   - sub points too
   
@@ -29,19 +28,18 @@ if (that is true){
       return true
     }
 
-* 
-- [x] This is a complete item
-- [ ] This is an incomplete item
+*  [x] This is a complete item
+*  [ ] This is an incomplete item
 
 
 *  you can stylize the text, make it :
 **Bold** and _Italic_ and `Code` text and  ~~strike through~~
 
-*  you can add link in [GitHub](http://github.com) 
+*  You can add link in [GitHub](http://github.com) 
 
 *  Username @mentions 
 
-*  creating tables 
+*  Creating tables 
 
 First Header | Second Header
 ------------ | -------------
