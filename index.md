@@ -19,7 +19,7 @@ You can use Markdown most places around GitHub:
 - *Dashes* are working well 
   - sub points too
   
-1. 
+1. Adding images 
 ![Images are available](https://i0.wp.com/cleus.co/wp-content/uploads/2019/03/Screenshot-2019-03-14-at-4.23.07-PM.png?resize=939%2C919&ssl=1)
   
 1. Also you can quote anything > Talk is cheap. Show me the code.
