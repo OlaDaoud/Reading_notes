@@ -11,9 +11,9 @@ You can use Markdown most places around GitHub:
 1. Comments in Issues and Pull Requests
 1. Files with the .md or .markdown extension
 
-### Examples of what can I do: 
+### Examples of what can You do: 
 
-* I can make lists with **stars** 
+* You can make lists with **stars** 
 
 - **Dashes** are working well 
   - sub points too
@@ -47,7 +47,15 @@ Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
 * Issue references within a repository
+
+16c999e8c71134401a78d4d46435517b2271d6ac
+mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
+mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
+
 * SHA references 
+#1
+mojombo#1
+mojombo/github-flavored-markdown#1
 
 ### GitHub Flavored Markdown : 
 
