@@ -13,39 +13,44 @@ You can use Markdown most places around GitHub:
 
 ### Examples of what can I do: 
 
-* I can make lists with stars 
+1. 
+* I can make lists with *stars* 
 
-- Dashes are working well 
+1. 
+- *Dashes* are working well 
   - sub points too
   
+1. 
+![Images are available](https://i0.wp.com/cleus.co/wp-content/uploads/2019/03/Screenshot-2019-03-14-at-4.23.07-PM.png?resize=939%2C919&ssl=1)
   
+1. Also you can quote anything > Talk is cheap. Show me the code.
+
+1.who said you cant code ? 
+if (that is true){
+      return true
+    }
+
+1.
+- [x] This is a complete item
+- [ ] This is an incomplete item
 
 
+1. you can stylize the text, make it :
+**Bold** and _Italic_ and `Code` text and  ~~strike through~~
 
-```markdown
-Syntax highlighted code block
+1. you can add link in [GitHub](http://github.com) 
 
-# Header 1
-## Header 2
-### Header 3
+1. Username @mentions 
 
-- Bulleted
-- List
+1. creating tables 
 
-1. Numbered
-2. List
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### GitHub Flavored Markdown : 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[GitHub](http://github.com) is inhancing your experience with **mark down** by adding some useful features.some features of [GitHub](http://github.com) Flavored Markdown are only available in the descriptions and comments of Issues and Pull Requests. These include @mentions , references to SHA-1 hashes, Issues, and Pull Requests. Task Lists are also available in Gist comments and in Gist Markdown files.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OlaDaoud/Reading_notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
